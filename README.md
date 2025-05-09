@@ -49,67 +49,45 @@ Our family motto is “it’s nice to be nice.” Compassion, empathy and treati
 
 ---
 
-## Tech Stack  
-<div align="center">
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br>
-    JavaScript
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /><br>
-    HTML5
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /><br>
-    CSS3
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /><br>
-    React
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /><br>
-    Node.js
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><br>
-    TypeScript
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br>
-    MySQL
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /><br>
-    Git
-  </div>
-</div>
+## 🚀 Tech Stack
 
----
+<p>
+  <!-- JavaScript devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;
+  <!-- HTML5 devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> &nbsp;&nbsp;
+  <!-- CSS3 devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> &nbsp;&nbsp;
+  <!-- React devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <!-- Vite devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" /> &nbsp;&nbsp;
+  <!-- Node.js devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> &nbsp;&nbsp;
+  <!-- TypeScript devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> &nbsp;&nbsp;
+  <!-- MySQL devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;&nbsp;
+  <!-- Git devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
-## ⚒️ Tools I Have Experience With ⚒️  
-<div align="center">
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /><br>
-    GitHub
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://static.codepen.io/assets/logo/codepen-logo-icon-3ceb599b1ebea2b5d7c16e6f3e96142f1b0a2b5a21359a3f06594afec031f4ae.svg" /><br>
-    CodePen
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" /><br>
-    Postman
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /><br>
-    VS Code
-  </div>
-  <div style="display:inline-block; margin:0 1rem; text-align:center;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><br>
-    Figma
-  </div>
-</div>
+</p>
+
+## ⚒️ Tools I have experience with...⚒️
+
+<p>
+  <!-- GitHub devicon -->
+  <img height="80" src="https://i.pinimg.com/474x/6e/39/83/6e3983ef421a6536731ab1123d847d60.jpg" /> &nbsp;&nbsp;
+  <!-- CodePen devicon -->
+  <img height="80" src="https://i.ytimg.com/vi/H46C8rEaVHg/maxresdefault.jpg" /> &nbsp;&nbsp;
+  <!-- Postman devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" /> &nbsp;&nbsp;
+  <!-- VS Code devicon -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp;
+  <!-- Figma devicon -->
+  <img height="80" src="https://cdn.dribbble.com/userupload/10426970/file/still-d2c7ea827bf4b90f4fdd39cf15e9a835.png?format=webp&resize=400x300&vertical=center" /> &nbsp;&nbsp;
+</p>
+
 
 ---
 
