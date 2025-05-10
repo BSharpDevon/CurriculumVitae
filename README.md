@@ -1,14 +1,24 @@
 <h1 align="center">Beth Sharp</h1>
 
 <div align="center">
-  <a href="#about-me" title="About Me">
+  <a 
+    href="https://www.linkedin.com/in/beth-sharp-93b758105/" 
+    title="LinkedIn" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
     <img 
       height="40"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
     />
   </a>
-  <a href="#website" title="My Live Website">
+  <a 
+    href="https://bsharpdevon.github.io/beth-full-stack-website/" 
+    title="My Live Website" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  > 
     <img 
       height="40"
       src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=github&logoColor=white" 
@@ -16,7 +26,10 @@
     />
     <br>
   </a>
-  <a href="#contact" title="Email me">
+   <a 
+    href="mailto:beth_sharp@hotmail.co.uk" 
+    title="Email me"
+  >
     <img 
       height="40"
       src="https://img.shields.io/badge/-beth_sharp@hotmail.co.uk-c14438?style=flat&logo=Gmail&logoColor=white" 
@@ -85,12 +98,12 @@ Our family motto is “it’s nice to be nice.” Compassion, empathy and treati
 
 <a id="projects"></a>
 ## 💼 Projects  
-| Name                          | Description                                                   | Tech/Tools                              |
-|-------------------------------|---------------------------------------------------------------|-----------------------------------------|
-| **Bound (book matching app)** | Suggests group reads based on members’ past favourites        | React, JavaScript, CSS                  |
-| **Harry Potter Quiz**         | Interactive trivia built with vanilla HTML, CSS & JavaScript | HTML5, CSS3, JavaScript                 |
-| **Hogwarts SQL & REST API**   | Themed database and CRUD API, tested via Postman              | MySQL, Node.js, Express, Postman        |
-| **Personal Website**          | To help practice using React and have fun being creative      | React, JavaScript, CSS, HTML5, Vite     |
+| Name                                                                   | Description                                                   | Tech/Tools                              |
+|------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------|
+| [**Bound (book matching app)**](https://github.com/BSharpDevon/Bound-1.0)    | Suggests group reads based on members’ past favourites        | React, JavaScript, CSS                  |
+| [**Harry Potter Quiz**](https://github.com/BSharpDevon/HarryPotterQuiz)     | Interactive trivia built with vanilla HTML, CSS & JavaScript | HTML5, CSS3, JavaScript                 |
+| **Hogwarts SQL & REST API**                                            | Themed database and CRUD API, tested via Postman              | MySQL, Node.js, Express, Postman        |
+| [**Personal Website**](https://bsharpdevon.github.io/beth-full-stack-website/) | To help practice using React and have fun being creative      | React, JavaScript, CSS, HTML5, Vite     |
 
 ---
 
